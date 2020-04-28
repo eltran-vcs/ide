@@ -2,3 +2,4 @@ Ide-ide untuk mengatasi bla-bla :
 1. lakukan a
 2. lakukan b
 3. lakukan c
+4. lakukan d
