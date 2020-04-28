@@ -4,6 +4,7 @@ tahapan untuk develop fitur g adalah sbb :
 3.
 4.
 5.
-f.
-g.
-h.
+6.
+7.
+8.
+
