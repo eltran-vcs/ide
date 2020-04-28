@@ -2,3 +2,5 @@ tahapan untuk develop fitur g adalah sbb :
 1.
 2. 
 3.
+4.
+5.
